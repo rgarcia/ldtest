@@ -1,0 +1,13 @@
+{
+  "name": "ldtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ldclient-node": "^1.5.1",
+    "requestify": "^0.1.17"
+  }
+}
